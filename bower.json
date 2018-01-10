@@ -1,9 +1,9 @@
 {
-  "name": "schema-behaviors",
-  "description": "A LRN element",
-  "main": "schema-behaviors.html",
+  "name": "a11y-behaviors",
+  "description": "Accessibility behaviors",
+  "main": "a11y-behaviors.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.10.1"
+    "polymer": "Polymer/polymer#^1.11.1"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",

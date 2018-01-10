@@ -2,21 +2,21 @@
 ```
 <custom-element-demo>
   <template>
-    <link rel="import" href="schema-behaviors.html">
+    <link rel="import" href="a11y-behaviors.html">
     <next-code-block></next-code-block>
   </template>
 </custom-element-demo>
 ```
 -->
 ```html
-<schema-behaviors></schema-behaviors>
+<a11y-behaviors></a11y-behaviors>
 ```
 
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/LRNWebComponents/schema-behaviors)
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/LRNWebComponents/a11y-behaviors)
 
-# \<schema-behaviors\>
+# \<a11y-behaviors\>
 
-A LRN element
+Accessibility behaviors for generally applying to other elements. This is a general purpose bundle of things that are useful for mixing into other elements.
 
 ## Install the Polymer-CLI
 
